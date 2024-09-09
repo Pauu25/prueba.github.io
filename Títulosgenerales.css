@@ -1,0 +1,15 @@
+@charset "utf-8";
+#info-cancion .container .text-primary.font-italic.font-weight-bold {
+    color: #B286FA;
+}
+#carrusel .container .text-primary.font-italic.font-weight-bold.text-center {
+}
+#video .container .text-primary.font-italic.font-weight-bold.text-center {
+}
+.text-primary.font-italic.font-weight-bold.text-center {
+}
+#letra .container .text-primary.font-italic.font-weight-bold.text-center {
+}
+#spotify .container .text-primary.font-italic.font-weight-bold.text-center {
+    color: #C69CFF;
+}

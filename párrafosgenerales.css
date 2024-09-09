@@ -1,0 +1,12 @@
+@charset "utf-8";
+.row .col-md-6 p {
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-size: 20px;
+    line-height: 25px;
+}
+.row .col-md-6.text-left .text-white {
+}
+.row .col-md-6.text-left .text-white {
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    letter-spacing: 0px;
+}

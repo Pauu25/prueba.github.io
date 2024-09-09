@@ -1,0 +1,13 @@
+@charset "utf-8";
+.row .col-md-6 .text-primary.font-italic.font-weight-bold {
+    font-family: simonetta;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 66px;
+}
+#canciones .text-primary.font-italic.font-weight-bold {
+    font-family: simonetta;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 62px;
+}

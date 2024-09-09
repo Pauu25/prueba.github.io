@@ -1,0 +1,5 @@
+@charset "utf-8";
+.navbar.navbar-expand-lg.navbar-dark .container .navbar-brand {
+    font-style: italic;
+    font-weight: bold;
+}

@@ -1,0 +1,7 @@
+@charset "utf-8";
+.container .song-info .img-fluid {
+    margin-top: 17px;
+}
+.row .col-md-6 .img-fluid {
+    margin-top: 10px;
+}

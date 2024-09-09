@@ -1,0 +1,35 @@
+@charset "utf-8";
+#carrusel .container h2 {
+    color: #B985FF;
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 60px;
+    text-align: center;
+}
+#video .container h2 {
+    color: #B985FF;
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 60px;
+    text-align: center;
+}
+#letra .container h2 {
+    color: #B985FF;
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 60px;
+    text-align: center;
+}
+#spotify .container h2 {
+    color: #B985FF;
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-variant: inherit;
+    line-height: 0px;
+    text-align: center;
+    font-size: 60px;
+}

@@ -1,0 +1,10 @@
+@charset "utf-8";
+#info-cancion .container p {
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    line-height: 19px;
+}
+.row .col-md-6.text-content p {
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-weight: lighter;
+    line-height: 19px;
+}

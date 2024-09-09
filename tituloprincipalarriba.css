@@ -1,0 +1,7 @@
+@charset "utf-8";
+.row .col-12 .text-left.text-primary.font-weight-bold {
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 56px;
+}

@@ -1,0 +1,13 @@
+@charset "utf-8";
+.row .col-12.text-center .lead {
+    color: #FFFFFF;
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-style: italic;
+    text-align: right;
+    position: absolute;
+    margin-top: 133px;
+    margin-bottom: 0px;
+    margin-right: 67px;
+    padding-right: 0px;
+    margin-left: 774px;
+}

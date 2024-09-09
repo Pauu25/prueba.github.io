@@ -1,0 +1,10 @@
+@charset "utf-8";
+#info-cancion .container h2 {
+    color: #BC90FF;
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-variant: inherit;
+    text-align: left;
+    font-size: 60px;
+}

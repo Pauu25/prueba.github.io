@@ -1,0 +1,15 @@
+@charset "utf-8";
+#info-cancion .container .section-title {
+}
+#letra-video .container .section-title {
+}
+.section-content .container .section-title {
+    text-align: center;
+    color: #AF8BE4;
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 45px;
+}
+#spotify .container .section-title {
+}

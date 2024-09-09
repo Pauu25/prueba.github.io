@@ -1,0 +1,16 @@
+@charset "utf-8";
+.row .col-12.text-center h1 {
+    color: #FFFFFF;
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-weight: bolder;
+    text-align: right;
+    position: absolute;
+    margin-top: -106px;
+    margin-right: 273px;
+    margin-bottom: 68px;
+    margin-left: 639px;
+}
+.row .col-12.text-center h1 {
+    margin-top: -15px;
+    margin-right: 4px;
+}

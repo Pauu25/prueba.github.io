@@ -1,0 +1,8 @@
+@charset "utf-8";
+.row .col-12 .mb-lg-2.font-weight-bold.display-4 {
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-size: 148px;
+    color: #577EDC;
+    margin-top: -34px;
+    margin-left: -13px;
+}

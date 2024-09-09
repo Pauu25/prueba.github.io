@@ -1,0 +1,5 @@
+@charset "utf-8";
+.container .text-center.mt-4 .img-fluid {
+    margin-top: 1px;
+    padding-bottom: 11px;
+}
